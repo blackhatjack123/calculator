@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+	background-color: #f2f2f2
+	
+}
+
+#main {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#in1, #in2, #operator, #calculate {
+	margin: 10px;
+}
+
+#result {
+	margin: 10px 0;
+	margin: 0 auto;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	color: #0f0;
+	outline: 2px solid #000;
+	line-height: 30px;
+}
+
+
